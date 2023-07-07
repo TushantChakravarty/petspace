@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "petSpace",
+    "slug": "petSpace",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.tushant07.AdoptMe"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tushant07.AdoptMe"
+    }
+    
+  },
+  "name": "petSpace",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3746903511069987~1322904817"
+  }
+}
